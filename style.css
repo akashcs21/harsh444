@@ -1,0 +1,120 @@
+
+    
+  
+  
+        .left {
+            display: inline-block;
+           
+            position: absolute;
+            left: 60px;
+            top: 20px;
+        }
+    
+        
+    
+        .left div {
+            line-height: 19px;
+            font-size: 26px;
+            text-align: center;
+        }
+    
+        .mid {
+            display: block;
+            width: 36%;
+            margin: 29px auto;
+            display: inline;
+            text-align: center;
+          
+        }
+    
+        .right {
+            position: absolute;
+            right: 34px;
+            top: 43px;
+            display: inline-block;
+
+         
+        }
+    
+        .navbar {
+            display: inline-block;
+        }
+    
+        .navbar li {
+            display: inline-block;
+            font-size: 25px;
+        }
+    
+        .navbar li a {
+            color: white;
+            text-decoration: none;
+            padding: 34px 23px;
+    
+        }
+    
+        .navbar li a:hover,
+        .navbar li a.active {
+            text-decoration: underline;
+            color: grey;
+    
+        }
+        .header{
+            border: 2px solid black;
+            color: black;
+            background-color: black;
+            text-align: center;
+        }
+        #img{
+            height: 40px;   
+            
+        }
+      h2{
+        text-align: right;
+      }
+        
+      #button{
+        color: white;
+        text-decoration: none;
+        border: 2px solid blue;
+        border-radius: 15px;
+       
+   
+      }
+      #button:hover{
+        color: red;
+
+      }
+      .main
+      {
+        border: 2px solid gray;
+        background-color: gainsboro;
+        border-radius: 10px;
+        margin: 20px;
+        color:blue ;
+        padding: 2px;
+      }
+    h3{
+        color:black ;
+    }
+  .st{
+    border: 2px solid black;
+    padding: 100px;
+    background-color: black;
+  }
+  .sm{
+    color: white;
+    margin-top: -60px;
+  }
+  .sm2{
+    color: white;
+    text-align: left;
+  }
+    
+  
+    
+    
+   
+    
+       
+    
+    
